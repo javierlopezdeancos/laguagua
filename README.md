@@ -4,6 +4,11 @@
 
 Another typescript bus event.
 
+## Activity
+![GitHub issues](https://img.shields.io/github/issues-raw/javierlopezdeancos/laguagua?style=flat)
+![GitHub all releases](https://img.shields.io/github/downloads/javierlopezdeancos/laguagua/total)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/javierlopezdeancos/laguagua/publish-laguagua-in-npm-on-release)
+![npm](https://img.shields.io/npm/v/laguagua)
 
 ## Why?
 
