@@ -5,6 +5,7 @@
 Another typescript bus event.
 
 ## Activity
+[![License](https://img.shields.io/github/license/javierlopezdeancos/laguagua?style=flat-square)](LICENSE)
 ![GitHub issues](https://img.shields.io/github/issues-raw/javierlopezdeancos/laguagua?style=flat)
 ![GitHub all releases](https://img.shields.io/github/downloads/javierlopezdeancos/laguagua/total)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/javierlopezdeancos/laguagua/publish-laguagua-in-npm-on-release)
