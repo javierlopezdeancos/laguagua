@@ -1,7 +1,5 @@
 ![logo](assets/img/logo.jpg)
 
-# La GuaGua
-
 Another typescript bus event.
 
 ## Activity
