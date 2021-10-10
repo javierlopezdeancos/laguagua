@@ -24,7 +24,7 @@ npm i laguagua --save
 ### Import
 
 ```typescript
-import { laGuaGua } from 'laguagua';
+import { laGuaGua as bus } from 'laguagua';
 ```
 
 ### Interface
